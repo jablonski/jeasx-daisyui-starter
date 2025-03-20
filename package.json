@@ -1,0 +1,21 @@
+{
+  "name": "jeasx-daisyui-starter",
+  "type": "module",
+  "scripts": {
+    "start": "jeasx start",
+    "build": "jeasx build",
+    "dev": "jeasx dev ecosystem.config.cjs",
+    "build:css": "npx @tailwindcss/cli -i ./src/browser/css/tailwind.css -o ./src/browser/css/index.css"
+  },
+  "browserslist": "defaults, not ie <= 11",
+  "dependencies": {
+    "@tailwindcss/cli": "4.0.14",
+    "daisyui": "5.0.6",
+    "jeasx": "1.6.2",
+    "tailwindcss": "4.0.14"
+  },
+  "devDependencies": {
+    "prettier": "3.5.3",
+    "prettier-plugin-tailwindcss": "0.6.11"
+  }
+}
