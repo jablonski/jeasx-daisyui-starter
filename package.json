@@ -9,10 +9,10 @@
   },
   "browserslist": "defaults, not ie <= 11",
   "dependencies": {
-    "@tailwindcss/cli": "4.0.15",
+    "@tailwindcss/cli": "4.0.16",
     "daisyui": "5.0.9",
-    "jeasx": "1.6.2",
-    "tailwindcss": "4.0.15"
+    "jeasx": "1.6.3",
+    "tailwindcss": "4.0.16"
   },
   "devDependencies": {
     "prettier": "3.5.3",
