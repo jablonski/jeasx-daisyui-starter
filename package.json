@@ -12,7 +12,7 @@
     "@tailwindcss/cli": "4.0.17",
     "concurrently": "9.1.2",
     "daisyui": "5.0.9",
-    "jeasx": "1.6.3",
+    "jeasx": "1.7.0",
     "tailwindcss": "4.0.17"
   },
   "devDependencies": {

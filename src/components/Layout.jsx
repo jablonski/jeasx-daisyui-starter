@@ -11,7 +11,7 @@ export default function Layout({ title = "", description = "", children }) {
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link
             rel="stylesheet"
-            href={`/css/index.css?${process.env.BUILD_TIME}`}
+            href={`/index.css?${process.env.BUILD_TIME}`}
           />
         </head>
         <body>
