@@ -9,7 +9,7 @@ import Timeline from "../components/Timeline";
 /**
  * @param {import("./types").RouteProps} props
  */
-export default async function Homepage({}) {
+export default async function ({}) {
   return (
     <Layout
       title="Homepage"
