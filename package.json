@@ -11,8 +11,8 @@
   "dependencies": {
     "@tailwindcss/cli": "4.1.13",
     "concurrently": "9.2.1",
-    "daisyui": "5.1.9",
-    "jeasx": "1.8.5",
+    "daisyui": "5.1.10",
+    "jeasx": "1.8.6",
     "tailwindcss": "4.1.13"
   },
   "devDependencies": {
